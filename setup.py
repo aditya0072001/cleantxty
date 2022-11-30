@@ -7,7 +7,7 @@ setuptools.setup(
     name="cleantxty",                     # This is the name of the package
     version="0.0.1",                        # The initial release version
     author="Tripathi Aditya Prakash",                     # Full name of the author
-    description="Quicksample Test Package for SQLShack Demo",
+    description="Python package to clean strings and making them reasonable for NLP",
     long_description=long_description,      # Long description read from the the readme file
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),    # List of all python modules to be installed
