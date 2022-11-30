@@ -25,7 +25,6 @@ def upper_text(text):
     return text.upper()
 
 def remove_stopwords(text):
-    nltk.download('stopwords')
     stop_words = set(stopwords.words('english'))
     word_tokens = word_tokenize(text)
 
