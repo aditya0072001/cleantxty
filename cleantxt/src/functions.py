@@ -5,6 +5,9 @@ from nltk.stem import PorterStemmer
 import string
 import re
 
+def information():
+    print("Cleaning text library for removing and formating text based on criterias provided")
+    
 def remove_link(text):
     filtered = re.sub(r'http\S+', '', text)
 
