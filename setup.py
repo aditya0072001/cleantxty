@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="cleantxty",                     # This is the name of the package
-    version="0.0.4",                        # The initial release version
+    version="0.0.5",                        # The initial release version
     author="Tripathi Aditya Prakash",                     # Full name of the author
     description="Python package to clean strings and making them reasonable for NLP",
     long_description=long_description,      # Long description read from the the readme file
