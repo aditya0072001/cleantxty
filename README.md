@@ -1,4 +1,5 @@
 # cleantxty
+[![Downloads](https://static.pepy.tech/personalized-badge/cleantxty?period=month&units=international_system&left_color=grey&right_color=green&left_text=Downloads/month)](https://pepy.tech/project/cleantxty)
 Python package to clean strings and making them reasonable for NLP.
 
 **cleantxty** is a an open-source python package cleaning text from raw text format. Source code for the library can be found [here.](https://github.com/aditya0072001/cleantxty)
